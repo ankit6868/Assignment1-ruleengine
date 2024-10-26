@@ -36,3 +36,10 @@ A web-based rule engine application that allows users to create, manage, and eva
    ```bash
    git clone https://github.com/ankit6868/Assignt1-ruleengine.git
    cd Assignt1-ruleengine
+1. Install dependencies:
+   ```bash
+   npm install
+1. Start the application:
+   ```bash
+   npm start
+   
